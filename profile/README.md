@@ -1,12 +1,32 @@
-## Hi there 👋
+![ROBOT_IMAGE](images/Capra-Markhor.png)
 
-<!--
+## Who we are
 
-**Here are some ideas to get you started:**
+Club Capra is a student organisation from the École de Technologie Supérieure in Montréal, Québec, Canada. We exist to develop our own autonomous ground vehicules through the sheer dedication of our members. These members all study full time one of the seven engineering programs offered by the university. All our work is open-source to push the international AGV community forward.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our website: <https://www.clubcapra.com>
+
+GitHub: <https://github.com/clubcapra/>
+
+Documentation (Work in progress): <https://wiki.capra.etsmtl.ca/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/club-capra/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/capra_ets/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/clubcapra/)
+
+---
+
+## All our work is made possible with the support of these incredible organizations
+
+![ÉTS](commanditaires/Logo_ETS_TypoBlanche_D_EN.png)
+
+![HalfSerious](commanditaires/HS_logo_couleur.png)
+
+![Automatech](commanditaires/automatech.png)
+
+![Altium](commanditaires/altium.svg)
+
+![MTT](commanditaires/mtt.png)
+
+<!--<img src="/profile/commanditaires/altium.svg" width="200" height"100"> -->
+<!-- ![AEETS](commanditaires/aeets.png) -->
