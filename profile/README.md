@@ -1,4 +1,4 @@
-![ROBOT_IMAGE](images/Capra-Markhor.png)
+![ROBOT_IMAGE](/profile/images/Capra-Markhor.png)
 
 ## Who we are
 
@@ -18,15 +18,15 @@ Documentation (Work in progress): <https://wiki.capra.etsmtl.ca/>
 
 ## All our work is made possible with the support of these incredible organizations
 
-![ÉTS](commanditaires/Logo_ETS_TypoBlanche_D_EN.png)
+![ÉTS](/profile/commanditaires/Logo_ETS_TypoBlanche_D_EN.png)
 
-![HalfSerious](commanditaires/HS_logo_couleur.png)
+![HalfSerious](/profile/commanditaires/HS_logo_couleur.png)
 
-![Automatech](commanditaires/automatech.png)
+![Automatech](/profile/commanditaires/automatech.png)
 
-![Altium](commanditaires/altium.svg)
+![Altium](/profile/commanditaires/altium.svg)
 
-![MTT](commanditaires/mtt.png)
+![MTT](/profile/commanditaires/mtt.png)
 
 <!--<img src="/profile/commanditaires/altium.svg" width="200" height"100"> -->
 <!-- ![AEETS](commanditaires/aeets.png) -->
