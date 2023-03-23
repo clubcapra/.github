@@ -24,11 +24,13 @@ Documentation (Work in progress): <https://wiki.capra.etsmtl.ca/>
 
 ![Automatech](/profile/commanditaires/automatech.png)
 
+![Ixiasoft](/profile/commanditaires/ixiasoft-logo-rgb_nb.webp)
+
+![CG](/profile/commanditaires/CG_LOGO_CIR%201.jpg)
+
 ![Altium](/profile/commanditaires/altium.svg)
 
 ![MTT](/profile/commanditaires/mtt.png)
-
-![CG](/profile/commanditaires/CG_LOGO_CIR%201.jpg)
 
 ![GoLabo](/profile/commanditaires/golabo.png)
 
