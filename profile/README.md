@@ -28,5 +28,9 @@ Documentation (Work in progress): <https://wiki.capra.etsmtl.ca/>
 
 ![MTT](/profile/commanditaires/mtt.png)
 
+![CG](/profile/commanditaires/CG_LOGO_CIR%201.jpg)
+
+![GoLabo](/profile/commanditaires/golabo.png)
+
 <!--<img src="/profile/commanditaires/altium.svg" width="200" height"100"> -->
 <!-- ![AEETS](commanditaires/aeets.png) -->
