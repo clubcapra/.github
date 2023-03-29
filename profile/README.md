@@ -24,7 +24,7 @@ Documentation (Work in progress): <https://wiki.capra.etsmtl.ca/>
 
 ![Automatech](/profile/commanditaires/automatech.png)
 
-![Ixiasoft](/profile/commanditaires/ixiasoft-logo-rgb_nb.webp)
+![Ixiasoft](/profile/commanditaires/IXIASOFT-Madcap-logo-RGB-WO-bord.png)
 
 ![CG](/profile/commanditaires/CG_LOGO_CIR%201.jpg)
 
